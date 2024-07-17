@@ -1,5 +1,6 @@
 {
   "name": "content-wind-template",
+  "starterTemplate": "https://content-wind.nuxt.space/",
   "private": true,
   "scripts": {
     "dev": "nuxi dev",
@@ -8,6 +9,7 @@
     "preview": "nuxi preview"
   },
   "devDependencies": {
+    "@nuxt/image": "^1.7.0",
     "content-wind": "latest",
     "nuxt": "latest"
   },
